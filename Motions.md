@@ -1,4 +1,4 @@
-# Motions in Robert’s Rules of Order
+# Allowable Motions for SWCC Meetings
 
 | Motion Category             | Proposed Action                         | Requirement to Move           | Description                                           |
 |-----------------------------|-----------------------------------------|-------------------------------|-------------------------------------------------------|
