@@ -1,11 +1,11 @@
 # Allowable Motions for SWCC Meetings
 
 ### Motion Categories and Descriptions
-- **Main:** Introduces new business or proposals for the group to decide.
-- **Subsidiary:** Modifies or manages the main motion during discussion.
-- **Privileged:** Addresses urgent matters unrelated to the main topic.
-- **Incidental:** Handles procedural issues that arise in the moment.
-- **Restorative:** Revisits or changes previous decisions or actions.
+- ***Main:*** Introduces new business or proposals for the group to decide.
+- ***Subsidiary:*** Modifies or manages the main motion during discussion.
+- ***Privileged:*** Addresses urgent matters unrelated to the main topic.
+- ***Incidental:*** Handles procedural issues that arise in the moment.
+- ***Restorative:*** Revisits or changes previous decisions or actions.
 
 ### Comprehensive Motion Actions, Requirements, and Descriptions
 | Motion Category             | Proposed Action                         | Requirement to Move           | Description                                           |
