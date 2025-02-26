@@ -29,15 +29,15 @@ Robert’s Rules is a set of guidelines to run meetings smoothly, fairly, and ef
 ## 6. Wrapping Up
 - **Adjournment:** When done, someone says, “I move to adjourn.” Seconded, voted, and you’re out!
 
-## Tips for Your Club
+## Tips for SWCC
 - Keep it simple—don’t overcomplicate things with fancy terms.
 - The president can say “Let’s keep this informal” for small stuff, but use the process for big decisions (like spending money or changing rules).
 - Practice makes it faster—don’t stress if it’s clunky at first.
 
-## Sample Agenda
-1. Call to order
-2. Approve last meeting’s minutes
-3. Officer reports (e.g., treasurer on funds)
+## Sample Agenda (created by the president and distributed 7 days before the meeting)
+1. Call to order (president)
+2. Approve last meeting’s minutes (read or posted by the secretary before the meeting begins)
+3. Officer reports (e.g., treasurer on funds, activities coordinators on activities, etc.)
 4. Old business (stuff from last time)
 5. New business (new ideas or plans)
 6. Announcements
